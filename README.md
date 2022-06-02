@@ -9,9 +9,9 @@ https://www.nesdev.org/wiki/NES_reference_guide - сайт с описанием
 http://dendy.migera.ru/nes/g00.html - об эмуляции на русском
 ## Комманды
 <ul>
-  <li>t-6-1 (PPU)</li>
-  <li>t-6-2 (CPU)</li>
-  <li>t-6-3 (Memory + Console)</li>
+  <li>t-7-1 (PPU)</li>
+  <li>t-7-2 (CPU)</li>
+  <li>t-7-3 (Memory + Console)</li>
 </ul>
 
 ### PPU
