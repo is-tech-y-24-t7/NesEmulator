@@ -7,6 +7,8 @@ https://tech-geek.ru/how-to-make-nes-emulator/ - об эмуляции общи�
 https://www.nesdev.org/wiki/NES_reference_guide - сайт с описанием всего.
 
 http://dendy.migera.ru/nes/g00.html - об эмуляции на русском
+
+https://taywee.github.io/NerdyNights/nerdynights/nesarchitecture.html - краткое овервью архитектуры
 ## Комманды
 <ul>
   <li>t-7-1 (PPU)</li>
