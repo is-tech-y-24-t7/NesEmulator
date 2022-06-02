@@ -1,4 +1,6 @@
 # NesEmulator
+![PROJECT drawio](https://user-images.githubusercontent.com/73906341/171735016-343248ef-dae0-4ebc-a26b-0385b8bc4221.png)
+
 Проект реализует эмуляцию работы консоли NES.
 Общие ссылки:
 
