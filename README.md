@@ -35,3 +35,5 @@ http://dendy.migera.ru/nes/g11.html - тоже самое но понятнее 
 ### Memory
 Реализует работу ...налить воды...
 
+https://fceux.com/web/help/NESRAMMappingFindingValues.html
+
