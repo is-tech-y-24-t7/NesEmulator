@@ -22,21 +22,17 @@ https://yizhang82.dev/nes-emu-overview
 </ul>
 
 ### PPU
-Реализует работу ...налить воды...
 
 https://www.nesdev.org/wiki/PPU - В общем об PPU.
   
 https://www.nesdev.org/wiki/PPU_registers - регистры PPU.
 
 ### CPU
-Реализует работу ...налить воды...
-
 https://www.nesdev.org/wiki/CPU - В общем об CPU.
   
 http://dendy.migera.ru/nes/g11.html - тоже самое но понятнее CPU.
 
 ### Memory
-Реализует работу ...налить воды...
 
 https://fceux.com/web/help/NESRAMMappingFindingValues.html
 
