@@ -32,6 +32,8 @@ https://www.nesdev.org/wiki/CPU - В общем об CPU.
   
 http://dendy.migera.ru/nes/g11.html - тоже самое но понятнее CPU.
 
+http://visual6502.org/JSSim/expert.html - Графический эмулятор чипа с потактно выполняемыми командами
+
 ### Memory
 
 https://fceux.com/web/help/NESRAMMappingFindingValues.html
