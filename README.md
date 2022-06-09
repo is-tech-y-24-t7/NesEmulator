@@ -32,7 +32,11 @@ https://www.nesdev.org/wiki/CPU - В общем об CPU.
   
 http://dendy.migera.ru/nes/g11.html - тоже самое но понятнее CPU.
 
-http://visual6502.org/JSSim/expert.html - Графический эмулятор чипа с потактно выполняемыми командами
+http://visual6502.org/JSSim/expert.html - Графический эмулятор чипа с потактно выполняемыми командами.
+
+https://www.masswerk.at/6502/assembler.html - Ассемблирует код для процессора.
+
+
 
 ### Memory
 
