@@ -4,3 +4,6 @@
 [submodule "PPU-Cartrige"]
 	path = PPU-Cartrige
 	url = https://github.com/is-tech-y-24-t7/PPU-Cartrige
+[submodule "Memory-Service"]
+	path = Memory-Service
+	url = https://github.com/is-tech-y-24-t7/Memory-Service
