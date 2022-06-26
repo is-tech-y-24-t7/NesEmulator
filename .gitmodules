@@ -1,3 +1,6 @@
 [submodule "Processor"]
 	path = Processor
 	url = https://github.com/is-tech-y-24-t7/Processor
+[submodule "PPU-Cartrige"]
+	path = PPU-Cartrige
+	url = https://github.com/is-tech-y-24-t7/PPU-Cartrige
