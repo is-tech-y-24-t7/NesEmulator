@@ -1,0 +1,22 @@
+name: Update-Submodule
+
+on: 
+  repository_dispatch:
+    types: [update-submodule]
+
+jobs:
+  update-submodule:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.TOKEN }}
+        submodules: true
+
+    - name: Pull & update submodules recursively
+      run: |
+        git config --global user.name ${{ secrets.USERNAME }}
+        git config --global user.password ${{ secrets.TOKEN }}
+        git pull --recurse-submodules
+        git submodule update --recursive --remote ${{ github.event.client_payload.submodule_name }}
+        git commit -am "Updated ${{ github.event.client_payload.submodule_name }} submodules" && git push || echo "No changes to commit"
