@@ -19,6 +19,4 @@ jobs:
         git config --global user.password ${{ secrets.TOKEN }}
         git pull --recurse-submodules
         git submodule update --recursive --remote ${{ github.event.client_payload.submodule_name }}
-        git commit -am "Updated ${{ github.event.client_payload.submodule_name }} submodules" 
-					&& git push 
-					|| echo "No changes to commit"
+        git commit -am "Updated ${{ github.event.client_payload.submodule_name }} submodules" && git push || echo "No changes to commit"
