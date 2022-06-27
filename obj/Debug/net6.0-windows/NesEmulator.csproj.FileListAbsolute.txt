@@ -1,0 +1,15 @@
+C:\Users\Пользователь\source\repos\NesEmulator\obj\Debug\net6.0-windows\NesEmulator.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\NesEmulator\obj\Debug\net6.0-windows\MemoryService.Ui.resources
+C:\Users\Пользователь\source\repos\NesEmulator\obj\Debug\net6.0-windows\NesEmulator.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\NesEmulator\obj\Debug\net6.0-windows\NesEmulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\NesEmulator\obj\Debug\net6.0-windows\NesEmulator.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\NesEmulator\bin\Debug\net6.0-windows\NesEmulator.exe
+C:\Users\Пользователь\source\repos\NesEmulator\bin\Debug\net6.0-windows\NesEmulator.deps.json
+C:\Users\Пользователь\source\repos\NesEmulator\bin\Debug\net6.0-windows\NesEmulator.runtimeconfig.json
+C:\Users\Пользователь\source\repos\NesEmulator\bin\Debug\net6.0-windows\NesEmulator.dll
+C:\Users\Пользователь\source\repos\NesEmulator\bin\Debug\net6.0-windows\NesEmulator.pdb
+C:\Users\Пользователь\source\repos\NesEmulator\obj\Debug\net6.0-windows\NesEmulator.dll
+C:\Users\Пользователь\source\repos\NesEmulator\obj\Debug\net6.0-windows\refint\NesEmulator.dll
+C:\Users\Пользователь\source\repos\NesEmulator\obj\Debug\net6.0-windows\NesEmulator.pdb
+C:\Users\Пользователь\source\repos\NesEmulator\obj\Debug\net6.0-windows\NesEmulator.genruntimeconfig.cache
+C:\Users\Пользователь\source\repos\NesEmulator\obj\Debug\net6.0-windows\ref\NesEmulator.dll
